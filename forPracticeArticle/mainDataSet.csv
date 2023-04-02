@@ -1,0 +1,124 @@
+﻿type;date;power;shapeName;latitude;longitude
+ГЭС;2014;1,9;Almaty Region;45.321764;79.926582
+ГЭС;2014;1,6;Almaty Region;45.999871;79.659886
+ГЭС;2014;1,6;Almaty Region;45.541211;81.118095
+ВЭС;2014;45;Akmola Region;51.591782;73.072089
+ВЭС;2014;48;Kostanay Region;50.253465;66.915011
+ВЭС;2014;21;Jambyl Region;43.455065;74.979852
+ГЭС;2014;24,9;East Kazakhstan Region;49.896643;84.074891
+ГЭС;2014;4,2;Almaty Region;45.429658;80.029678
+СЭС;2014;50;Jambyl Region;42.619051;70.764328
+СЭС;2014;2;Jambyl Region;43.854836;77.061545
+ГЭС;2014;16,99;Almaty Region;45.71070025;80.28822182
+ВЭС;2014;1;Akmola Region;52.731314;68.737522
+ГЭС;2014;0,63;Karaganda Region;51.15118042;71.47014074
+СЭС;2014;0,4186;Kyzylorda Region;45.111017;65.738293
+ГЭС;2015;2;Almaty Region;45.10937;78.003358
+ГЭС;2015;2;Almaty Region;41.454239;69.193974
+СЭС;2015;1;Kyzylorda Region;44.061626;65.607164
+ВЭС;2015;120;Almaty Region;43.530157;78.202342
+ГЭС;2015;0,980;Almaty Region;43.248966;77.47828
+СЭС;2015;0,95;Kyzylorda Region;44.066129;65.524447
+ВЭС;2015;60;Almaty Region;;
+БиоЭС;2015;0,35;Kostanay Region;;
+ВЭС;2015;0,75;Akmola Region;;
+ВЭС;2015;30,65;Jambyl Region;;
+ВЭС;2015;52,8;Atyrau Region;;
+ГЭС;2015;0,125;Almaty Region;;
+ВЭС;2015;48;Aktobe Region;;
+ГЭС;2015;2,5;Almaty Region;;
+ВЭС;2015;5;Mangystau Region;;
+ГЭС;2015;28,5;Almaty Region;;
+СЭС;2015;50;Karaganda Region;;
+СЭС;2016;2;Mangystau Region;;
+СЭС;2016;40;Karaganda Region;;
+СЭС;2016;50;Turkestan region;;
+СЭС;2016;30;East Kazakhstan Region;;
+ГЭС;2016;0,43;Almaty Region;;
+СЭС;2016;100;Karaganda Region;;
+СЭС;2016;100;Akmola Region;;
+СЭС;2016;100;Akmola Region;;
+СЭС;2016;50;Jambyl Region;;
+ВЭС;2016;100;Jambyl Region;;
+ВЭС;2016;50;Almaty Region;;
+ВЭС;2016;0,45;Almaty Region;;
+ГЭС;2016;2,5;Almaty Region;;
+ВЭС;2016;4,5;Almaty Region;;
+ВЭС;2016;4,5;Almaty Region;;
+ВЭС;2016;4,95;Akmola Region;;
+СЭС;2016;14;Turkestan region;;
+СЭС;2016;20;Turkestan region;;
+СЭС;2016;50;Kyzylorda Region;;
+СЭС;2016;4,8;Almaty Region;;
+ВЭС;2016;100;Akmola Region;;
+СЭС;2016;28;Kyzylorda Region;;
+ГЭС;2017;1,4;Almaty Region;;
+ГЭС;2017;0,975;Turkestan region;;
+СЭС;2017;0,3015;Shymkent city;;
+СЭС;2017;100;Almaty Region;;
+ГЭС;2017;8,82;Almaty Region;;
+ГЭС;2017;5,77;Almaty Region;;
+СЭС;2017;0,416;Almaty Region;;
+СЭС;2017;4,95;Almaty Region;;
+ВЭС;2017;4,5;Almaty Region;;
+ВЭС;2017;4,5;Almaty Region;;
+ВЭС;2017;4,5;Almaty Region;;
+ВЭС;2017;4,5;Almaty Region;;
+ВЭС;2017;4,5;Almaty Region;;
+ВЭС;2017;4,5;Almaty Region;;
+ВЭС;2017;4,5;Almaty Region;;
+ГЭС;2017;4,95;Almaty Region;;
+ГЭС;2017;2,2;Almaty Region;;
+ВЭС;2017;43,6;Mangystau Region;44.501504;50.258737
+ВЭС;2017;4,95;East Kazakhstan Region;;
+ВЭС;2017;4,95;East Kazakhstan Region;;
+ВЭС;2017;4,95;East Kazakhstan Region;;
+ВЭС;2017;4,95;East Kazakhstan Region;;
+ВЭС;2017;50;Akmola Region;;
+СЭС;2017;4,95;Almaty Region;;
+ВЭС;2017;4,5;Jambyl Region;;
+ВЭС;2017;25;Akmola Region;;
+ВЭС;2017;4,5;Jambyl Region;;
+ВЭС;2017;4,5;Jambyl Region;;
+СЭС;2017;4,95;Almaty Region;;
+ГЭС;2017;25,8;Almaty Region;;
+ВЭС;2017;4,5;Akmola Region;;
+БиоЭС;2018;1,067;Karaganda Region;;
+ВЭС;2018;7;Akmola Region;;
+ВЭС;2018;4,95;East Kazakhstan Region;;
+ВЭС;2018;4,95;East Kazakhstan Region;;
+ВЭС;2018;2;Akmola Region;;
+ВЭС;2018;50;Kostanay Region;;
+ВЭС;2018;5;West Kazakhstan Region;;
+ВЭС;2018;10;West Kazakhstan Region;;
+ГЭС;2018;8,6;Almaty Region;;
+БиоЭС;2018;5;;;
+ВЭС;2018;4,95;Akmola Region;;
+ВЭС;2018;10;Akmola Region;;
+СЭС;2018;5;Almaty Region;;
+СЭС;2018;3;Almaty Region;;
+СЭС;2018;10;Kyzylorda Region;;
+СЭС;2018;50;Almaty Region;;
+ВЭС;2018;100;East Kazakhstan Region;;
+ВЭС;2018;50;North Kazakhstan Region;;
+ВЭС;2018;50;Akmola Region;;
+ВЭС;2018;50;Akmola Region;;
+ГЭС;2018;26;Almaty Region;;
+ВЭС;2018;50;Almaty Region;;
+ВЭС;2018;100;Jambyl Region;;
+СЭС;2018;2;Turkestan region;43.652823;67.955359
+СЭС;2018;10;Turkestan region;;
+СЭС;2018;50;Turkestan region;;
+СЭС;2018;20;Turkestan region;;
+СЭС;2018;50;Turkestan region;;
+СЭС;2018;50;Jambyl Region;;
+ГЭС;2019;2,5;Almaty Region;;
+БиоЭС;2019;4;Almaty Region;;
+БиоЭС;2019;2,4;Almaty Region;;
+БиоЭС;2019;4;Karaganda Region;;
+ВЭС;2019;10;Kostanay Region;;
+ВЭС;2019;4,99;Akmola Region;;
+ВЭС;2019;7;Kostanay Region;;
+ВЭС;2019;48;Aktobe Region;;
+ВЭС;2019;39;Akmola Region;;
+СЭС;2019;26;Karaganda Region;;

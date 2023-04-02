@@ -1,0 +1,13 @@
+name: green-energy
+title: green-energy
+username:
+account: green-energy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8677265
+bundleId: 7010033
+url: https://green-energy.shinyapps.io/green-energy/
+when: 1679846837.77485
+lastSyncTime: 1679846837.77488
+asMultiple: FALSE
+asStatic: FALSE
